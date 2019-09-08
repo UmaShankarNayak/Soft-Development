@@ -1,4 +1,4 @@
-package com.adapter.pattern;
+package com.umashankar.adapter.pattern;
 
 //Part of Extra-Geometric-Shape API
 public class Rhombus implements GeometricShape {

@@ -1,4 +1,4 @@
-package com.bridge.pattern;
+package com.umashankar.bridge.pattern;
 
 public abstract class WorkShop {
 	

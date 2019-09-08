@@ -1,4 +1,4 @@
-package com.factory.pattern;
+package com.umashankar.factory.pattern;
  
 public abstract class Car {
  

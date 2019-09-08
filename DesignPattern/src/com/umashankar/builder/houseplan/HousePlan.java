@@ -1,4 +1,4 @@
-package com.builder.houseplan;
+package com.umashankar.builder.houseplan;
 
 interface HousePlan 
 { 

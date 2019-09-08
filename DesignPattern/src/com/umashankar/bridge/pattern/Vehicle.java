@@ -1,4 +1,4 @@
-package com.bridge.pattern;
+package com.umashankar.bridge.pattern;
 
 import java.util.ArrayList;
 import java.util.List;

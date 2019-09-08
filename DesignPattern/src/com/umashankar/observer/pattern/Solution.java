@@ -1,4 +1,4 @@
-package com.observer.pattern;
+package com.umashankar.observer.pattern;
 
 import java.util.Scanner;
 import java.io.*;

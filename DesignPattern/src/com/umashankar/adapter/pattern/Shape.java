@@ -1,4 +1,4 @@
-package com.adapter.pattern;
+package com.umashankar.adapter.pattern;
 
 public interface Shape {
 	

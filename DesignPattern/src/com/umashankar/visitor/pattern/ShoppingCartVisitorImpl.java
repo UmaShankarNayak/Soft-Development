@@ -1,4 +1,4 @@
-package com.visitor.pattern;
+package com.umashankar.visitor.pattern;
 
 public class ShoppingCartVisitorImpl implements ShoppingCartVisitor{
 	

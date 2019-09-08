@@ -1,4 +1,4 @@
-package com.strategy.pattern;
+package com.umashankar.strategy.pattern;
 
 public interface PaymentStrategy {
 

@@ -1,4 +1,4 @@
-package com.proxy.pattern;
+package com.umashankar.proxy.pattern;
 
 public class InvalidProductException extends RuntimeException{
 	

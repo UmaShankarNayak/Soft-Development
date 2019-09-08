@@ -1,4 +1,4 @@
-package com.builder.pattern;
+package com.umashankar.builder.pattern;
 
 public class TestBuilderPattern {
 

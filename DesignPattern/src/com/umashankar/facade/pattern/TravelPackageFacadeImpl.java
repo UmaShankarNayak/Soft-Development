@@ -1,4 +1,4 @@
-package com.facade.pattern;
+package com.umashankar.facade.pattern;
 
 public class TravelPackageFacadeImpl implements TravelPackageFacade{
 

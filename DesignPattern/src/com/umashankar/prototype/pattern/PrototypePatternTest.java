@@ -1,4 +1,4 @@
-package com.prototype.pattern;
+package com.umashankar.prototype.pattern;
 
 import java.util.List;
 
